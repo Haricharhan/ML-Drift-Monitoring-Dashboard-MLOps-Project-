@@ -242,7 +242,8 @@ It visualizes:
 
 Below is a preview of the monitoring dashboard:
 
-![Dashboard Screenshot](dashboard/dashboard_preview.png)
+![Dashboard Screenshot](dashboard/Dashboard_preview-1st-slide.png)
+![Dashboard Screenshot](dashboard/Dashbboard_Preview-2nd-slide.png)
 
 
 
